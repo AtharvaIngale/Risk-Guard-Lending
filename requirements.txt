@@ -6,6 +6,6 @@ numpy
 matplotlib
 scikit-learn
 tkvideo
-tkinter
+tk
 gtts
 gunicorn
