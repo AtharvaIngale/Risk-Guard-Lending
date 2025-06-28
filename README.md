@@ -1,4 +1,4 @@
-<h1 align='center'> LOAN PREDICTION USING MACHINE LEARNING </h1>
+<h1 align='center'> Risk Guard Lending </h1>
 
 <h4 align='center'> Machine Learning based system to predict loan approval/denial based on applicant data, reducing manual review and improving efficiency. </h4>
 
