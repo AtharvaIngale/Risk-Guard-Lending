@@ -1,0 +1,11 @@
+tensorflow
+keras
+pillow
+pandas
+numpy
+matplotlib
+scikit-learn
+tkvideo
+tkinter
+gtts
+gunicorn
