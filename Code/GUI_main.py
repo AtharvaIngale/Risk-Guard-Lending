@@ -6,11 +6,11 @@ from tkinter import ttk, LEFT, END
 from PIL import Image, ImageTk
 from tkinter.filedialog import askopenfilename
 from tkinter import messagebox as ms
-import cv2
-import sqlite3
-import os
+# import cv2
+# import sqlite3
+# import os
 import numpy as np
-import time
+# import time
 #import video_capture as value
 #import lecture_details as detail_data
 #import video_second as video1

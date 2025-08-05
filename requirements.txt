@@ -8,4 +8,5 @@ scikit-learn
 tkvideo
 tk
 gtts
+cv2
 gunicorn
