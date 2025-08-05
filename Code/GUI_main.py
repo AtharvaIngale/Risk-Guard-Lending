@@ -7,13 +7,13 @@ from PIL import Image, ImageTk
 from tkinter.filedialog import askopenfilename
 from tkinter import messagebox as ms
 # import cv2
-# import sqlite3
-# import os
+import sqlite3
+import os
 import numpy as np
-# import time
-#import video_capture as value
-#import lecture_details as detail_data
-#import video_second as video1
+import time
+# import video_capture as value
+# import lecture_details as detail_data
+# import video_second as video1
 
 #import lecture_video  as video
 
